@@ -1,0 +1,7 @@
+location / {
+            proxy_pass http://localhost:8888/;
+            index  index.html index.htm;
+            } # end location
+        } # end server
+    } # end http
+
