@@ -5,3 +5,7 @@ events {
 }
 
 worker info
+
+worker info1
+
+worker info2
